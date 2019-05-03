@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["index","Index sampling"]],"struct":[["SliceChooseIter","Iterator over multiple choices, as returned by [`SliceRandom::choose_multiple]"]],"trait":[["IteratorRandom","Extension trait on iterators, providing random sampling methods."],["SliceRandom","Extension trait on slices, providing random mutation and sampling methods."]]});
